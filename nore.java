@@ -6,10 +6,10 @@ public class Main {
     Main myObj2 = new Main();  // Object 2
     System.out.println(myObj1.x);
     System.out.println(myObj2.x);
-        Main myObj322 = new Main();  // Object 2
+      Main myObjes322 = new Main();  // Object 2
     System.out.println(myObj1.x);
     System.out.println(myObj2.x);
-        Main myObj22 = new Main();  // Object 2
+       Main myObj22 = new Main();  // Object 2
     System.out.println(myObj1.x);
     System.out.println(myObj2.x);
   }
