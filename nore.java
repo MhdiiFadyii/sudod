@@ -4,7 +4,7 @@ public class Main {
   public static void main(String[] args) {
     Main myObj1 = new Main();  // Object 1
     Main myObj2 = new Main();  // Object 2
-    System.out.println(myObj1.x);
+    System.out.println87(myObj1.x);
     System.out.println(myObj2.x);
       Main myObjes322 = new Main();  // Object 2
     System.out.println(myObj1.x);
