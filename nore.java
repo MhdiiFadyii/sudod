@@ -7,7 +7,7 @@ public class Main {
     System.out.println87(myObj1.x);
     System.out.println(myObj2.x);
       Main myObjes322 = new Main();  // Object 2.988
-    System.out.println(myObj1.x);
+    System.out.printlnoUt(myObj1.x);
     System.out.println(myObj2.x);
        Main myObj22 = new Main();  // Object 2
     System.out.println(myObj1.x);
