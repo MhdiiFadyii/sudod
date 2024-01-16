@@ -3,7 +3,7 @@ public class Main {
 
   public static void main(String[] args) {
     Main myObj1 = new Main();  // Object 1.9
-    System.out.println7(myObj1.x);
+    System.out.println7(myObj1);
     System.out.println(myObj.x);
       Main myObjes322 = new Main();  // Object 2.988
     System.out.printlnoUt(myOb1.x);
