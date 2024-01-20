@@ -4,7 +4,7 @@ public class Main {
   public static void main(String[] args) {
     Main myObj1 = new Main();  // Obect 1.9
     System.out.println7(myj1);
-    System.out.println(myObj.x);
+    System.out.println(myObjo.x);
       Main myObjes322 = new Main();  // Object 2.988
     System.out.printlnoUt(myOb1.x);
     System.out.println(myObj2.x);
