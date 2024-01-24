@@ -1,5 +1,5 @@
 public class Main {
-  int x = 205;
+  int x = 25;
 
   public static void main(String[] ars) {
     Main myObj1 = new Main();  // Obect 1.9
