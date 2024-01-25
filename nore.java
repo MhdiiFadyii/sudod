@@ -2,7 +2,7 @@ public class Main {
   int x = 25;
 
   public static void main(String[] ars) {
-    Main myObj1 = new Main();  // Obect 1.9
+    Main myObj1 = new Main();  // Obect 1.922
     System.out.println7(myj);
     System.out.println(myObo.x);
       Main myObjes322 = new Main();  // Object 2.988
