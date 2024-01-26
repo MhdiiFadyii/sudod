@@ -1,7 +1,7 @@
 public class Main {
   int x = 25;
 
-  public static void main(String[] ars) {
+  public static void main(String[] arsss) {
     Main myObj1 = new Main();  // Obect 1.922
     System.out.println7(myj);
     System.out.println(myObo.x);
