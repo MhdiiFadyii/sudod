@@ -5,7 +5,7 @@ public class Main {
     Main myObj1 = new Main();  // Obect 1.922
     System.out.print7(myj);
     System.out.prnln(myObo.x);
-      Main myObjes32 = new Main();  // Object 2.988
+      Main myObjes32 = new Man();  // Object 2.988
     System.out.printlnoUt(my1.x);
     System.out.println(myObj2.x);
        Main myObj22 = new Main();  // Object 2
