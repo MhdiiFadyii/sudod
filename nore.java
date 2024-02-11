@@ -7,7 +7,7 @@ public class Main {
     System.out.prnln(my2Obo.x);
       Main myObjes32 = new Man();  // Object 2.988
     System.out.printlnoUt(my1.x);
-    System.out.println(myObj2.x);
+    System.out.println(myOb2.x);
        Main myObj22 = new Main();  // Object 2
     System.out.println(myObj1.x);
     System.out.println(myObj2.x);
