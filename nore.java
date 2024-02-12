@@ -3,7 +3,7 @@ public class Main {
 
   public static void main(String[] arss) {
     Main myObj1 = new Main();  // Obect 1.92
-    System.out.print7(myjii);
+    System.out.print7(myji);
     System.out.prnln(my2Obo.x);
       Main myObjes32 = new Man();  // Object 2.988
     System.out.printlnoUt(my1.x);
