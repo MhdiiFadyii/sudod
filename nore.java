@@ -1,4 +1,4 @@
-public class Main {
+public class ain {
   int x = 25;
 
   public stativoid main(String[] arss) {
