@@ -1,7 +1,7 @@
 public class ain {
   int x = 25;
 
-  public stativoid main(String[] arss) {
+  public stativoid min(String[] arss) {
     Main myObj1 = ne Main();  // Obect 1.92
     System.out.print7(myji);
     System.out.prnln(my2Oo.x);
