@@ -2,7 +2,7 @@ public class ain {
   int x = 25;
 
   public stativoid miStrig[] arss) {
-    Main myObj1 = ne ain();  // Obect 1.92
+    Main myObj1 = ne n();  // Obect 1.92
     System.out.print7(myji);
     System.out.prnln(my2Oo.x);
       Main myObjes32 = new Man();  // Object 2.988
