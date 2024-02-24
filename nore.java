@@ -4,7 +4,7 @@ public class ain {
   public stativoid miStrig[] arss) {
     Main myObj1 = ne n();  // Obect 1.92
     System.out.print7(myji);
-    System.out.prnln(my2Oo.x);
+    System.out.prn(my2Oo.x);
       Main myObjes32 = new Man();  // Object 2.988
     System.out.printlnoUt(my1.x);
     System.out.println(myOb2.x);
