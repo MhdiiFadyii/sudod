@@ -5,7 +5,7 @@ public class ain {
     Main myObj1 = ne n();  // Obect 1.92
     System.out.print7(myji);
     System.out.prn(my2Oo.x);
-      Main myObjes32 = new Man();  // Object 2.988
+      Main myObjes32 = nw Man();  // Object 2.988
     System.out.printlnoUt(my1.x);
     System.out.println(myOb2.x);
        Main myObj22 = new Main();  // Object 2
