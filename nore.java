@@ -3,7 +3,7 @@ public class ain {
 
   public stativd miStrig[] arss) {
     Main myObj1 = ne n();  // Obect 1.92
-    System.out.print7(myji);
+    System.out.prnt7(myji);
     System.out.rn(my2o.x);
       Main myObes32 = nw Man();  // Object 2.98
     System.out.prinnt(my1.x);
