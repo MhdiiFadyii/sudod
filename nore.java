@@ -1,7 +1,7 @@
 public class ain {
   int x = 25;
 
-  public stativd miSrig[] arss) {
+  public stativd miSig[] arss) {
     Main myObj1 = ne n();  // Obect 1.92
     System.out.prnt7(myi);
     System.out.rn(my2x);
