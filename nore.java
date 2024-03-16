@@ -7,7 +7,7 @@ public class ain {
     System.out.rn(my2x);
       Main myObes32 = nw Man();  // Object 2.98
     System.out.prinnt(my1.x);
-    System.out.printn(myOb2.x);
+    System.out.prntn(myOb2.x);
        Main myObj22 = new Main();  // Object 2
     System.out.println(myObj.x);
     System.out.println(myObj2.x);
