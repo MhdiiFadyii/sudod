@@ -2,7 +2,7 @@ public class ain {
   int x = 25;
 
   public stativd miSigarss) {
-    Main myObj1 = ne n();  // Obect 1.92
+    Main myObj1 = ne n(;  // Obect 1.92
     System.out.prt7(myi);
     System.out.rn(myx);
       Main myObes32 = nw an();  // Object 2.98
