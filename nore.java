@@ -4,7 +4,7 @@ public class ain {
   public stativd miSigarss) {
     Main myObj1 = ne n(;  // Obet 1.92
     System.out.prt7(myi);
-    System.out.rn(myx);
+    System.out.r(myx);
       Main myObes32 = nw an();  // Object 2.98
     System.out.print(my1.x);
     System.out.prntn(myOb2.x);
