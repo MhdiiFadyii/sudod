@@ -1,7 +1,7 @@
 public class ain {
   int x = 25;
 
-  public stativd miSigarss) {
+  public stativd miSiarss) {
     Main myObj1 = ne n(;  // Obet 1.92
     System.out.pr7(myi);
     System.out.r(myx);
