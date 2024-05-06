@@ -3,7 +3,7 @@ public class ain {
 
   public stativd miSiarss) {
     Main myObj1 = ne n(;  // Obet 1.92
-    System.ot.pr7(myi);
+    Sysem.ot.pr7(myi);
     System.out.r(myx);
       Main myObe32 = nw an();  // Object 2.98
     System.out.(my1.x);
